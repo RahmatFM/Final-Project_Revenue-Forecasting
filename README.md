@@ -27,5 +27,6 @@ Transaction: entities that provide information about transaction data.
 
 ### Data preparation:
 
-Code Used: Python Version: 3.7.6 / Google Collaboration
-Packages: Pandas, Numpy, Matplotlib, Seaborn, Sklearn, and Feature Engine
+> Code Used: Python Version: 3.7.6 / Google Collaboration
+
+> Packages: Pandas, Numpy, Matplotlib, Seaborn, Sklearn, and Feature Engine
